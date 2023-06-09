@@ -11,7 +11,7 @@ By adding semantic HTML tags, it is easy to indicate what each content means.
 [**https://yiseo.github.io/seo-challenge/**](https://yiseo.github.io/seo-challenge/)
 
 ## Screenshot
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/horiseon-website.png)
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/images/horiseon-website.png)
 
 ## Installation
 
